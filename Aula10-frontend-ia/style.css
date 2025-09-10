@@ -1,0 +1,7 @@
+section#home{
+    background-image: url('https://www.pexels.com/pt-br/video/33500304/');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+}
